@@ -1,1 +1,2 @@
 깃 학습 중
+in process of learning git
